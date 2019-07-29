@@ -1,3 +1,12 @@
+# CS3451 Fall 2019
+
+This is the class website for CS3451 Introduction to Computer Graphics.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Computer Graphics CS3451 Fall 2019</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.blairmacintyre.me/cs3451-f19" property="cc:attributionName" rel="cc:attributionURL">Blair MacIntyre</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Original README for the github pages template is below.  That template was licensed with an MIT license.
+----
+
 # Minimal Mistakes remote theme starter
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).

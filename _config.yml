@@ -13,16 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+title: Introduction to Computer Graphics
+subtitle: "CS3451, Fall 2019"
+description: Introduction to Computer Graphics
+email: blair@gatech.edu
+twitter_username: blairmacintyre
+github_username: blairmacintyre
+minimal_mistakes_skin: dark
 search: true
+repository: "blairmacintyre/cs3451-f19"
+breadcrumbs: true
+follow_label: "Follow Blair MacIntyre"
+name: "Blair MacIntyre, Georgia Tech"
+
+logo: /assets/images/puppy-logo-120x120.png # 120x120 px default image used for Twitter summary card
+teaser: /assets/images/shark-table-360x240.png # 400x250 px default teaser image used in image archive grid
+url: https://github.blairmacintyre.me/cs3451-f19
+#url: http://localhost:4000
 
 # Build settings
 markdown: kramdown
@@ -31,7 +38,9 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
+highlighter: pygments
+
 
 include:
   - _pages
@@ -58,34 +67,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Blair MacIntyre"
+  avatar : "/assets/images/bio-blair.jpg"
+  bio    : "Course Instructor<br>Professor, School of Interactive Computing<br>Principal Research Scientist, Mozilla"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://blairmacintyre.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/blairmacintyre"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.blairmacintyre.me/cs3451-f19"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/blairmacintyre/cs3451-f19"
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "blairmacintyre/cs3451-f19"
 
 defaults:
   # _posts
@@ -94,7 +100,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -105,7 +111,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

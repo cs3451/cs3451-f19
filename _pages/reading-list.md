@@ -1,0 +1,29 @@
+---
+title: Reading List for CS 3451
+excerpt: List of sections to read for the class
+permalink: /readings/
+---
+
+## Textbook
+
+*Fundamentals of Computer Graphics*, by Steve Marshner and Peter Shirley.   \\
+Fourth Edition is available at the bookstore, or other places like [Amazon](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner-ebook-dp-B07JNJ3284/dp/B07JNJ3284/ref=mt_kindle?_encoding=UTF8&me=&qid=1564237012).
+
+However, either the 2nd, 3rd or 4th edition of the above book is fine for this class.
+
+| Topic | 2nd Edition | 3rd Edition | 4th Edition |
+| Pixels| 3.0-3.2 |3.2 |3.2 |
+| LCD’s| (none) |3.0–3.1.1 |3.1.1 |
+| Matrices | 5.2.1 |5.2|5.2|
+| Transformations|  6.0-6.2.0 (not 6.2.1),6.3-6.5 |6.0–6.1.5, 6.2 (not 6.2.1), 6.3–6.5 |6.0-6.1.5, 6.2.0, 6.3-6.5 |
+| View&Project | Ch. 7| Ch. 7 |Ch. 7|
+| 3D Rotation|  6.2.1 |6.2.1|6.2.1|
+| Lines| 3.5-3.5.1 |8.1.1 |8.1.1|
+| Hidden Surfaces| Ch. 8|8.2-8.2.3 | 8.2-8.2.3 |
+| Radiometry| Ch. 19 |Ch. 20| Ch. 18|
+| Color| Ch. 20|Ch. 21 |Ch. 19 |
+| Shading| 9.0-9.2.2 |10.0-10.2.2 |10.0-10.2.2 |
+| Ray Tracing| Ch. 10 |Ch. 4 & 13|Ch. 4 & 13|
+| Curves| 15.1-15.3.5, 15.6.1| 15.0-15.3.5, 15.6-15.6.1|15.0-15.3.5, 15.6-15.6.1|
+
+Sections numbered such as 6.0 refer to the front matter of a chapter prior to the first numbered sub-sections.

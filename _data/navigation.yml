@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+- title: Home
+  url: /
+  excerpt: Home page
+  image: /assets/images/shark-table-360x240.png 
+- title: Syllabus
+  url: /syllabus/
+  excerpt: Details you need to know
+  image: /assets/images/keep-calm-its-in-the-syllabus.png
+- title: Schedule
+  url: /schedule/
+  excerpt: Schedule for the class
+  image: /assets/images/schedule-teaser-360x240.png
+- title: Github
+  url: https://github.com/cs3451/
+  excerpt: Source code repository for the site
+  image: /assets/images/Octocat.png
