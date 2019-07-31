@@ -27,3 +27,5 @@ However, either the 2nd, 3rd or 4th edition of the above book is fine for this c
 | Curves| 15.1-15.3.5, 15.6.1| 15.0-15.3.5, 15.6-15.6.1|15.0-15.3.5, 15.6-15.6.1|
 
 Sections numbered such as 6.0 refer to the front matter of a chapter prior to the first numbered sub-sections.
+
+(Thanks to Greg Turk for this list.  I don't have the 2nd edition of the book, so I'm relying on his list for that edition.)
