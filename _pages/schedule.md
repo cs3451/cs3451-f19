@@ -48,6 +48,6 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |15|Nov 26| collision detection | |A5 in | |
 | | 28| **Thanksgiving** | **HOLIDAY** | | |
 |16|Dec 3|Pulling it together: Unity engine | | |
-|17|Dec 7| **FINAL EXAM** |11:30 - 2:20 | |
+|17|Dec 12| **FINAL EXAM** |11:20 - 2:10 | |
 
 
