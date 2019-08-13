@@ -18,7 +18,7 @@ Available at the bookstore, or other places like [Amazon](https://www.amazon.com
 
 |Component|Grade|
 |:--------|----:|
-|Programming assignments:|70% (5% for warm-up project, 65% for remaining projects)|
+|Programming assignments:|75% (5% for warm-up project, 70% for remaining projects)|
 |Midterm exam:| 10% |
 |Final exam:| 15%|
 
@@ -30,13 +30,13 @@ Computer graphics is learned best by programming. Each student will complete fou
 
 All assignments in this class are individual projects and should represent your work, unless otherwise noted on the assignment.
 
-Asking for help with the various languages (e.g., Typescript, Javascript, etc.), tools (e.g., Visual Studio, node.js, gulp, etc.) and SDKs/APIs (e.g., WebGL, etc.), as well as discussing general strategies and approaches for how to accomplish certain things, is fine on these assignments;  as long as the solution you create and turn in is yours.  For example, you can get a pointer on how to implement something, but you should then do the implementation yourself.
+Asking for help with the various languages (e.g., Typescript, Javascript, etc.), tools (e.g., Visual Studio, node, npm, etc.) and SDKs/APIs (e.g., WebGL, etc.), as well as discussing general strategies and approaches for how to accomplish certain things, is fine on these assignments;  as long as the solution you create and turn in is yours.  For example, you can get a pointer on how to implement something, but you should then do the implementation yourself.
 
 If in doubt, ask.
 
 # Use of Code You Did Not Write Yourself
 
-We will tell you explicitly what sample code and resources you may use in your assignments. For example, A1 (Ray Tracing) will start with the Typescript Ray Tracing sample. Aside from this, you are expected to implement the "intellectual core" part of each assignment yourself; extra libraries (e.g., web layout libraries like jquery) can be used if you desire, but they should not solve or simplify a core part of the assignment.   
+We will tell you explicitly what sample code and resources you may use in your assignments. Aside from this, you are expected to implement the "intellectual core" part of each assignment yourself; extra libraries (e.g., 2D web layout libraries like jquery, or audio libraries if you wish to add sounds) can be used if you desire, but they should not solve or simplify a core part of the assignment.   
 
 If you find an library or sample code from somewhere that you want to use (such as in a tutorial or web page or on github), you should verify with the instructor and/or TA that it is acceptable before using it, and then document what you got and where. 
 
@@ -58,4 +58,6 @@ Please be courteous to your fellow students. To put this another way:  I view us
 
 # Late Policy
 
-The grade on a late assignment will drop 5% for each day beyond the due date. A day ends exactly 24 hours after the assignment is due. No late assignments will be accepted four days or later after the date that the assignment was due. 
+The grade on a late assignment will drop 5% for each day beyond the due date. A day ends exactly 24 hours after the assignment is due. Assignments will typically be due at 11:59pm the night **before** the Tuesday/Thursday they are listed on the syllabus (the exact date and time will be shown on the assignment itself).
+
+No late assignments will be accepted four days or later after the date and time that the assignment was due. 
