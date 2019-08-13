@@ -10,10 +10,10 @@ classes: wide
 Blair MacIntyre (blair@gatech.edu), Office: TSRB 231
 
 Office Hours:
-- Tue and Thu 1:15-2 (after class)
-  - (locaion TBA) 
-- Online one evening 
-  - (TBA)
+- Tue 1:15-2 (after class)
+  - Near the class (TBA: will be more precise after first class) 
+- Online occasionally in the evening 
+  - In discord, probably in VR
 
 ## TAs
 
@@ -28,4 +28,6 @@ Office Hours:
 - Daniel Kane (dkane6@gatech.edu)
   - Office Hours: TBA
 - Austin Passmore (lpassmore3@gatech.edu)
+  - Office Hours: TBA
+- Ethan Wilson (ewilson72@gatech.edu)
   - Office Hours: TBA
