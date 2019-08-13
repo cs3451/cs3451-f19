@@ -42,7 +42,6 @@ paginate_path: /page:num/
 timezone: America/New_York
 highlighter: rouge
 
-
 include:
   - _pages
 
@@ -67,17 +66,17 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Blair MacIntyre"
-  avatar : "/assets/images/bio-blair.jpg"
-  bio    : "Course Instructor<br>Professor, School of Interactive Computing<br>Principal Research Scientist, Mozilla"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://blairmacintyre.me"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/blairmacintyre"
+# author:
+#   name   : "Blair MacIntyre"
+#   avatar : "/assets/images/bio-blair.jpg"
+#   bio    : "Course Instructor<br>Professor, School of Interactive Computing<br>Principal Research Scientist, Mozilla"
+#   links:
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://blairmacintyre.me"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/blairmacintyre"
 
 footer:
   links:
@@ -95,13 +94,15 @@ comments:
     issue_term: "cs3451/cs3451.github.io"
 
 defaults:
+  - values:
+      author_profile: false
+
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: false
       read_time: true
       comments: true
       share: false
@@ -123,7 +124,6 @@ defaults:
       - title: Time and Place
         text: "TTh, 12:00 – 1:15, Klaus 1443"
         nav: "side"
-      author_profile: false
 
 category_archive:
   type: liquid
