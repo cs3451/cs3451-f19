@@ -86,7 +86,7 @@ footer:
       url: "https://cs3451.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cs3451/cs3451.github.io"
+      url: "https://github.com/cs3451/"
 
 comments:
   provider: "utterances"
@@ -104,16 +104,25 @@ defaults:
       author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
+      sidebar:
+      - title: Time and Place
+        text: "TTh, 12:00 – 1:15, Klaus 1443"
+        nav: "side"
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
+      share: false
       comments: true
       classes: wide
+      sidebar:
+      - title: Time and Place
+        text: "TTh, 12:00 – 1:15, Klaus 1443"
+        nav: "side"
       author_profile: false
 
 category_archive:

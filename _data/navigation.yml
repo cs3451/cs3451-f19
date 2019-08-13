@@ -1,7 +1,7 @@
 main:
-- title: Home
-  url: /
-  excerpt: Home page
+- title: Instructors
+  url: /instructors/
+  excerpt: Instructors and TAs
   image: /assets/images/shark-table-360x240.png 
 - title: Syllabus
   url: /syllabus/
@@ -19,3 +19,23 @@ main:
   url: https://github.com/cs3451/
   excerpt: Source code repository for the site
   image: /assets/images/Octocat.png
+
+side:
+  - title: Instructors and TAs
+    url: /instructors/
+  - title: Resources
+    url: /resources/
+    children:
+      - title: Canvas
+        url: https://gatech.instructure.com/courses/51600
+      - title: OneNote
+        url: https://gtvault-my.sharepoint.com/personal/bm110_gatech_edu/Documents/Class%20Notebooks/CS3451%20Computer%20Graphics%20Fall%202019
+  - title: Site Links
+    children:
+      - title: All Posts
+        url: /posts/
+      - title: Announcements
+        url: /categories/#announcements
+      - title: Assignments
+        url: /categories/#assignmnets
+  - 
