@@ -2,6 +2,8 @@
 title: CS 3451 Schedule
 excerpt: Schedule for the class
 permalink: /schedule/
+layout: single
+classes: wide
 ---
 
 ## Schedule
