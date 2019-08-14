@@ -22,29 +22,29 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 22|Intro cont'd, 2D transformations | **Transformations**, (review math in Chapter 2 as needed) |  | |
 |2| Aug 27| 3D transformation, CSS3 transforms  |**Matrices**  |  | |
 | | 29 | Projection, Viewing |**View&Project** | A0 in | |
-|3|Sept 3| Scene Graphs (w/ CSS3 3D objects) | | [A1: Transforms, out](https://cs3451.github.io/f19-a1)| |
+|3|Sept 3| Scene Graphs (w/ CSS3 3D objects) | | [A1: Transforms with CSS3, out](https://cs3451.github.io/f19-a1)| |
 | |Sept 5| Raster displays, LCDs |**Pixels, LCD's**|  | |
 |4|Sept 10| Line and Polygon Drawing  |**Lines**|  |Prof@Seattle|
-| | 12| |Hidden surfaces |**Hidden Surfaces**| A1 in | |
-|5|Sept 17| Intro to WebGL | |[A2: Animated Scene, out](https://cs3451.github.io/f19-a2) | |
-| | 19| Radiometry | **Radiometry** | | |
-|6|Sept 24| Light and Color |**Color** | | |
-| | 26|Surface Shading|**Shading**|A2 in| |
+| | 12| Hidden surfaces |**Hidden Surfaces**| A1 in | |
+|5|Sept 17| Intro to WebGL | |[A2: Animated WebGL Scene, out](https://cs3451.github.io/f19-a2) | |
+| | 19| GPU Programming |**GPU**  | | |
+|6|Sept 24| GPU Programming| **GPU** | | |
+| | 26|Surface Shading|**Shading**| | |
 |7|Oct 1|Ray Tracing|**Ray Tracing** | | |
-| |  3|Ray Tracing|**Ray Tracing** | | |
+| |  3|Ray Tracing|**Ray Tracing** |A2 in| |
 |8|Oct 8|  **MIDTERM** | | | |
 | | 10| Distribution Ray Tracing, Shadows |**Ray Tracing** |[A3: Ray Tracing, out](https://cs3451.github.io/f19-a3)| |
 |9|Oct 15| **FALL BREAK** | **HOLIDAY**|  | |
 | | 17| Texture, Bump, Environment Maps | **Texture Mapping**| | |
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
-| | 24| Shadow Mapping | |A3 in| **Drop Deadline (Oct 25)**|
-|11|Oct 29| GPU Programming |**GPU** || |
-| | 31| GPU Programming| **GPU**|[A4: GPU Programming, out](tps://cs3451.github.io/f19-a4)| | 
-|12|Nov 5|Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](files/15Na.pdf))|| |
-| |  |Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](files/15Nb.pdf)) ([meshProcessing.pdf](files/meshProcessing.ppt.pdf))|| |
-| | 7|  _TBA_ |  | | |
-|13|Nov 12|Interaction and picking, More Scene Graphs, UI Software, Performance |A4 in | |
-| | 14|Interaction and picking, More Scene Graphs, UI Software, Performance | [A5: Interactive Scene, out](tps://cs3451.github.io/f19-a5)| |
+| | 24| Shadow Mapping | |A3 in| **Drop Deadline (Oct 26)**|
+|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](files/15Na.pdf)) | | |
+| | 31| Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](files/15Nb.pdf)) ([meshProcessing.pdf](files/meshProcessing.ppt.pdf))| [A4 out](tps://cs3451.github.io/f19-a4)| | 
+|12|Nov 5| Radiometry | **Radiometry** || |
+| | | Light and Color |**Color** | | |
+| | 7|  _TBA_ |  |A4 in | |
+|13|Nov 12|Interaction and picking, More Scene Graphs, UI Software, Performance | | |
+| | 14|Interaction and picking, More Scene Graphs, UI Software, Performance | | [A5: Interactive Scene with Three.js, out](tps://cs3451.github.io/f19-a5)| |
 |14|Nov 19| Curves and Surfaces | **Curves**| | |
 | | 21| Curves and Surfaces |**Curves** | | |
 |15|Nov 26| Pulling it together: Unity engine | |A5 in | |

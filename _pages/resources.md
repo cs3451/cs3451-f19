@@ -18,3 +18,12 @@ A OneNote Course Notebook [has been set up](https://gtvault-my.sharepoint.com/pe
 
 A discord server has been created for more informal discussion.  We will share a link to discord on canvas (we do not want anyone not in the class to join the server).  Use of discord should follow the GT Code of Conduct.  All students who join the server are **required to set their server nickname to their full name**.  Anonymous use of discord is not permitted.
 
+## Technology Resources
+
+There are vast amounts of resources for Typescript on the web, starting with the documentation and examples on https://typescriptlang.org.  Also notice that Typescript is open source, and hosted at https://github.com/Microsoft/TypeScript. The repository has links to various resources, but also discussions galore in the issues.
+
+Similarly, there are plenty of WebGL resources out there.  A great starting point is https://webglfundamentals.org/, which we will use in class to explore WebGL, GPU and other concepts.
+
+If you like video, searching for Typescript or WebGL (or any other web related topic) on https://channel9.msdn.com yields a lot of different videos from over the years.
+
+The best starting point for three.js is https://threejs.org, the main site for the library.  It is also open source, and the source for all the examples and samples are in the distribution on github.  The examples are mostly pretty simple and self contained, although poorly documented.  There are more resources if you look, though.  Josh Marinacci (GT alum, working at Mozilla) has posted a variety of tutorials on the Mozilla MR blog (in and among https://blog.mozvr.com/tag/tutorials/).
