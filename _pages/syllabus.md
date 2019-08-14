@@ -13,6 +13,8 @@ Course topics include: output devices, line drawing, polygon scan conversion, 2D
 # Required Textbook
 1. *Fundamentals of Computer Graphics, Fourth Edition*, by Steve Marshner and Peter Shirley.   \\
 Available at the bookstore, or other places like [Amazon](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner-ebook-dp-B07JNJ3284/dp/B07JNJ3284/ref=mt_kindle?_encoding=UTF8&me=&qid=1564237012).
+2. *TypeScript Documentation*, Version 3.5, [free, available online](http://www.typescriptlang.org/docs/home.html))
+
 
 # Grading
 
@@ -34,6 +36,12 @@ Asking for help with the various languages (e.g., Typescript, Javascript, etc.),
 
 If in doubt, ask.
 
+# Contacting the Instructor and TAs
+
+The instructor and TAs are available via email, Piazza and Discord. However, please do not expect immediate answers on any of these forums, especially nights and weekends.  We will check the various forums regularly, especially 9am-4pm M-F, and endeavor as a group to reply promptly.  But please remember that each of us has classes, assignments, work and other things that we will also need to focus on, so do not expect immediate replies.  
+
+That said, if a message has not been replied to in more than a day (during the week), please feel free to send a "polite reminder" if you are still in need of a reply.   
+
 # Use of Code You Did Not Write Yourself
 
 We will tell you explicitly what sample code and resources you may use in your assignments. Aside from this, you are expected to implement the "intellectual core" part of each assignment yourself; extra libraries (e.g., 2D web layout libraries like jquery, or audio libraries if you wish to add sounds) can be used if you desire, but they should not solve or simplify a core part of the assignment.   
@@ -52,7 +60,7 @@ You are expected to attend class. You are expected to know anything discussed in
 
 You will be required to bring a laptop to class, and the required web development technology installed on it. We will occasionally do in-class programming exercises. Please ensure you have a laptop that supports the necessary technology.
 
-When we are not using them for in-class work, I will ask students to close them.  While I am inclined to let people do what they want with their time (and grade their results), I have received complaints from students in the past about how distracting it is to have students browsing the web/facebook/twitter, watching videos, and playing games in class.  And here’s a [nice article](http://www.theglobeandmail.com/life/parenting/back-to-school/laptops-in-class-lowers-students-grades-canadian-study/article13759430/) about a study documenting the negative impact on performance of students who are seated near folks using laptops (even if they aren’t).
+When we are not using them for in-class work, I will ask students to close them.  While I am inclined to let people do what they want with their time (and grade their results), I have received complaints from students in the past about how distracting it is to have students browsing the web/facebook/twitter, watching videos, and playing games in class. And here’s a [nice article](http://www.theglobeandmail.com/life/parenting/back-to-school/laptops-in-class-lowers-students-grades-canadian-study/article13759430/) about a study documenting the negative impact on performance of students who are seated near folks using laptops (even if they aren’t).
 
 Please be courteous to your fellow students. To put this another way:  I view using social media and unrelated web browsing as equivalent to talking on a phone in class. If you are doing it and bothering me or others around you, I may ask you to leave class for the day.
 
