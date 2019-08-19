@@ -32,7 +32,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 26|Surface Shading|**Shading**| | |
 |7|Oct 1|Ray Tracing|**Ray Tracing** | | |
 | |  3|Ray Tracing|**Ray Tracing** |A2 in| |
-|8|Oct 8|  **MIDTERM** | | | |
+|8|Oct 8|  **MIDTERM** | | |Prof No Office Hours|
 | | 10| Distribution Ray Tracing, Shadows |**Ray Tracing** |[A3: Ray Tracing, out](https://cs3451.github.io/f19-a3)| |
 |9|Oct 15| **FALL BREAK** | **HOLIDAY**|  | |
 | | 17| Texture, Bump, Environment Maps | **Texture Mapping**| | |

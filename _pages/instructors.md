@@ -11,9 +11,9 @@ Blair MacIntyre (blair@gatech.edu), Office: TSRB 231
 
 Office Hours:
 - Tue 1:15-2 (after class)
-  - Near the class (TBA: will be more precise after first class) 
+  - Klaus 3402 
 - Online occasionally in the evening 
-  - In discord, probably in VR
+  - In discord, possibly in VR
 
 ## TAs
 
