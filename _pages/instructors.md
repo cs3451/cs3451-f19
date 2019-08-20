@@ -19,8 +19,6 @@ Office Hours:
 
 - Elie Diaz (ediaz30@gatech.edu) 
   - Office Hours: TBA
-- Isabelle Steffens (isteffens3@gatech.edu)
-  - Office Hours: TBA
 - Evan Goode (egoode6@gatech.edu)
   - Office Hours: TBA
 - Ziming He (zhe66@gatech.edu)
@@ -28,6 +26,8 @@ Office Hours:
 - Daniel Kane (dkane6@gatech.edu)
   - Office Hours: TBA
 - Austin Passmore (lpassmore3@gatech.edu)
+  - Office Hours: TBA
+- Isabelle Steffens (isteffens3@gatech.edu)
   - Office Hours: TBA
 - Ethan Wilson (ewilson72@gatech.edu)
   - Office Hours: TBA
