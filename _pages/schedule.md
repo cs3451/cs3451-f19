@@ -18,7 +18,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 
 |Week|Date|Topic|Readings|Assignments|Notes|
 |:--:|---:|:-----|:----|:----|
-|1|Aug 20|Introduction to Class, Typescript, VS Code, Github, and Node, oh my| **ch 1** |[A0: Intro, out](https://cs3451.github.io/f19-a0) | [1-intro.pptx](files/1-intro.pptx) [1-intro.pdf](files/1-intro.pdf) |
+|1|Aug 20|Introduction to Class, Typescript, VS Code, Github, and Node, oh my| **ch 1** |[A0: Intro, out](https://cs3451.github.io/f19-a0) | [1-intro.pptx](/assets/1-intro.pptx) [1-intro.pdf](/assets/1-intro.pdf) |
 | | 22|Intro cont'd, 2D transformations | **Transformations**, (review math in Chapter 2 as needed) |  | |
 |2| Aug 27| 3D transformation, CSS3 transforms  |**Matrices**  |  | |
 | | 29 | Projection, Viewing |**View&Project** | A0 in | |
