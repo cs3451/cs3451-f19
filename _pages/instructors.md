@@ -25,4 +25,4 @@ Office Hours:
 - Isabelle Steffens (isteffens3@gatech.edu)
 - Ethan Wilson (ewilson72@gatech.edu)
   
-Office Hours and locations for TAs will be posted on Canvas.
+Office Hours and locations for TAs are posted on the front page of Canvas.
