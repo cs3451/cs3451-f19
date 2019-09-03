@@ -27,6 +27,7 @@ However, either the 3rd or 4th edition of the above book is fine for this class.
 | Texture Mapping | | 11 | 11 | 
 | Ray Tracing| Ch. 10 |Ch. 4 & 13|Ch. 4 & 13|
 | Curves| 15.1-15.3.5, 15.6.1| 15.0-15.3.5, 15.6-15.6.1|15.0-15.3.5, 15.6-15.6.1|
+| Quaternions | | 17.2.2 | 16.2.2 |
 
 Sections numbered such as 6.0 refer to the front matter of a chapter prior to the first numbered sub-sections.
 
