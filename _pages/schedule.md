@@ -21,10 +21,10 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |1|Aug 20|Introduction to Class, Typescript, VS Code, Github, and Node, oh my| **ch 1** |[A0: Intro, out](https://github.com/cs3451/f19-a0) | [1-intro.pptx](/assets/1-intro.pptx) [1-intro.pdf](/assets/1-intro.pdf) |
 | | 22|Intro cont'd | |  | |
 |2| Aug 27| 2D & 3D transformation, CSS3 transforms | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  |  |[3-matrices.pptx](/assets/3-matrices.pptx) [3-matrices.pdf](/assets/3-matrices.pdf) |
-| | 29 | Projection, Viewing |**View&Project** | A0 in Wed 11:59pm | [3-matrices.pptx](/assets/3-matrices.pptx) [3-matrices.pdf](/assets/3-matrices.pdf) |
+| | 29 | Projection, Viewing |**View&Project** | A0 in Wed 11:59pm | [4-viewing.pptx](/assets/4-viewing.pptx) [4-viewing.pdf](/assets/4-viewing.pdf) |
 |3|Sept 3| Scene Graphs (w/ CSS3 3D objects) |**Quaternions** |[A1: Transforms with CSS3, out](https://github.com/cs3451/f19-a1)| |
 | |Sept 5| Raster displays, LCDs |**Pixels, LCD's**|[A1b: Animated Scene, out](https://github.com/cs3451/f19-a1b)| |
-|4|Sept 10| Line and Polygon Drawing  |**Lines**|  |Prof@Seattle|
+|4|Sept 10| Line and Polygon Drawing  |**Lines**|  |[5-hardware.pptx](/assets/5-hardware.pptx) [5-hardware.pdf](/assets/5-hardware.pdf)<br>Prof@Seattle|
 | | 12| Hidden surfaces |**Hidden Surfaces**| A1 (first 2 parts) in | |
 |5|Sept 17| Intro to WebGL | |A1b (third part of A1) in | |
 | | 19| GPU Programming |**GPU**  |[A2: Animated WebGL Scene, out](hhttps://github.com/cs3451/f19-a2)  | |
