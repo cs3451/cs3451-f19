@@ -26,7 +26,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | |Sept 5| Raster displays, LCDs |**Pixels, LCD's**|[A1b: Animated Scene, out](https://github.com/cs3451/f19-a1b)| |
 |4|Sept 10| Line and Polygon Drawing  |**Lines**|  |[6-hardware.pptx](/assets/6-hardware.pptx) [6-hardware.pdf](/assets/6-hardware.pdf)<br>Prof@Seattle|
 | | 12| Hidden surfaces |**Hidden Surfaces**| A1 (first 2 parts) in | |
-|5|Sept 17| Intro to WebGL | |A1b (third part of A1) in | |
+|5|Sept 17| Intro to WebGL | |[8-webgl.pptx](/assets/8-webgl.pptx) [8-webgl.pdf](/assets/8-webgl.pdf) <br>A1b (third part of A1) in | |
 | | 19| GPU Programming |**GPU**  |[A2: Animated WebGL Scene, out](hhttps://github.com/cs3451/f19-a2)  | |
 |6|Sept 24| GPU Programming| **GPU** | | |
 | | 26|Surface Shading|**Shading**| | |
