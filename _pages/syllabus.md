@@ -68,4 +68,4 @@ Please be courteous to your fellow students. To put this another way:  I view us
 
 The grade on a late assignment will drop 5% of the maximum grade for the assignment for each day beyond the due date (e.g., if an assignment is graded out of 10, you will lose 0.5 points per day). A day ends exactly 24 hours after the assignment is due. Assignments will typically be due at 11:59pm the night **before** the Tuesday/Thursday they are listed on the syllabus (the exact date and time will be shown on the assignment itself).
 
-No late assignments will be accepted four days or later after the date and time that the assignment was due. 
+Assignments can be submitted up to three days late.  No late assignments will be accepted four days or later after the date and time that the assignment was due.  
