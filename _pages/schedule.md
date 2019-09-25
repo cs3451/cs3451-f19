@@ -28,7 +28,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 12| Hidden surfaces |**Hidden Surfaces**| A1 (first 2 parts) in | |
 |5|Sept 17| Intro to WebGL | |A1b (third part of A1) in |[8-webgl.pptx](/assets/8-webgl.pptx) [8-webgl.pdf](/assets/8-webgl.pdf) |
 | | 19| GPU Programming and Shading |**GPU**, **Shading** |[A2: Animated WebGL Scene, out](hhttps://github.com/cs3451/f19-a2)  |[9-basicillumination.pptx](/assets/9-basicillumination.pptx) [9-basicillumination.pdf](/assets/9-basicillumination.pdf)|
-|6|Sept 24| GPU Programming, Shading and Texturing| **GPU**, **Texture Mapping (1)**| | |
+|6|Sept 24| GPU Programming, Shading and Texturing| **GPU**, **Texture Mapping (1)**| | [10-BasicTexturing.pdf](/assets/10-BasicTexturing.pdf)|
 | | 26|Surface Shading| | | |
 |7|Oct 1|Ray Tracing|**Ray Tracing** | | |
 | |  3|Ray Tracing|**Ray Tracing** |A2 in, Friday Oct 4, 11:59pm| |
