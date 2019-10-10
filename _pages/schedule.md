@@ -33,7 +33,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |7|Oct 1|Ray Tracing|**Ray Tracing** | |[11-raytracing1.pptx](/assets/11-raytracing1.pptx) [11-raytracing1.pdf](/assets/11-raytracing1.pdf) |
 | |  3|Ray Tracing|**Ray Tracing** |A2 in, Friday Oct 4, 11:59pm| |
 |8|Oct 8|  **MIDTERM** | | |Prof No Office Hours|
-| | 10| Distribution Ray Tracing, Shadows |**Ray Tracing** |[A3: Ray Tracing, out](https://github.com/cs3451/f19-a3)| |
+| | 10| Distribution Ray Tracing, Shadows |**Ray Tracing** |[12-raytracing2.pptx](/assets/12-raytracing2.pptx) [12-raytracing2.pdf](/assets/12-raytracing2.pdf)<br> [A3: Ray Tracing, out](https://github.com/cs3451/f19-a3)| |
 |9|Oct 15| **FALL BREAK** | **HOLIDAY**|  | |
 | | 17| Texture, Bump, Environment Maps | **Texture Mapping**| | |
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
