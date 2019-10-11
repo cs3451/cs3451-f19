@@ -38,8 +38,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 17| Texture, Bump, Environment Maps | **Texture Mapping**| | |
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
 | | 24| Shadow Mapping | |A3 in| **Drop Deadline (Oct 26)**|
-|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](files/15Na.pdf)) | | |
-| | 31| Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](files/15Nb.pdf)) ([meshProcessing.pdf](files/meshProcessing.ppt.pdf))| [A4 out](https://github.com/cs3451/f19-a4)| | 
+|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](/assets/15Na.pdf)) | | |
+| | 31| Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.ppt.pdf))| [A4 out](https://github.com/cs3451/f19-a4)| | 
 |12|Nov 5| Radiometry | **Radiometry** || |
 | | | Light and Color |**Color** | | |
 | | 7|  _TBA_ |  |A4 in | |
