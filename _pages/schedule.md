@@ -37,17 +37,17 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |9|Oct 15| **FALL BREAK** | **HOLIDAY**|  | |
 | | 17| Texture, Bump, Environment Maps | **Texture Mapping**| | |
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
-| | 24| Shadow Mapping | |A3 in| **Drop Deadline (Oct 26)**|
-|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](/assets/15Na.pdf)) | | |
-| | 31| Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.ppt.pdf))| [A4 out](https://github.com/cs3451/f19-a4)| | 
-|12|Nov 5| Radiometry | **Radiometry** || |
+| | 24| Shadow Mapping | |A3 in (Sunday 27th)| **Drop Deadline (Oct 26)**|
+|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](/assets/15Na.pdf)) |[A4 out](https://github.com/cs3451/f19-a4) | |
+| | 31| Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.ppt.pdf))| | | 
+|12|Nov 5| Radiometry | **Radiometry** | | |
 | | | Light and Color |**Color** | | |
-| | 7|  _TBA_ |  |A4 in | |
+| | 7|  _TBA_ |  |A4 in (Sunday 10th)| |
 |13|Nov 12|Interaction and picking, More Scene Graphs, UI Software, Performance | | |
 | | 14|Interaction and picking, More Scene Graphs, UI Software, Performance | | [A5: Interactive Scene with Three.js, out](https://github.com/cs3451/f19-a5)| |
 |14|Nov 19| Curves and Surfaces | **Curves**| | |
 | | 21| Curves and Surfaces |**Curves** | | |
-|15|Nov 26| Pulling it together: Unity engine | |A5 in | |
+|15|Nov 26| Pulling it together: Unity engine | |A5 in (Tuesday) | |
 | | 28| **Thanksgiving** | **HOLIDAY** | | |
 |16|Dec 3| TBA | | |
 |17|Dec 12| **FINAL EXAM** |11:20 - 2:10 | |
