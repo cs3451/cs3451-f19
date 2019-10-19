@@ -35,11 +35,11 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |8|Oct 8|  **MIDTERM** | | |Prof No Office Hours|
 | | 10| Distribution Ray Tracing, Shadows |**Ray Tracing** |[12-raytracing2.pptx](/assets/12-raytracing2.pptx) [12-raytracing2.pdf](/assets/12-raytracing2.pdf)<br> [A3: Ray Tracing, out](https://github.com/cs3451/f19-a3)| |
 |9|Oct 15| **FALL BREAK** | **HOLIDAY**|  | |
-| | 17| Texture, Bump, Environment Maps | **Texture Mapping**| | |
+| | 17| Distribution Ray Tracing, Shadows | | | |
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
-| | 24| Shadow Mapping | |A3 in (Sunday 27th)| **Drop Deadline (Oct 26)**|
-|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](/assets/15Na.pdf)) |[A4 out](https://github.com/cs3451/f19-a4) | |
-| | 31| Polygonal modeling and data structures, Triangle Meshes, topology |([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.ppt.pdf))| | | 
+| | 24| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](/assets/15Na.pdf)) |A3 in (Sunday 27th)| **Drop Deadline (Oct 26)**|
+|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology | ([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.ppt.pdf))|[A4 out](https://github.com/cs3451/f19-a4) | |
+| | 31| Shadow Mapping | | | | 
 |12|Nov 5| Radiometry | **Radiometry** | | |
 | | | Light and Color |**Color** | | |
 | | 7|  _TBA_ |  |A4 in (Sunday 10th)| |
