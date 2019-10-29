@@ -38,7 +38,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 17| Distribution Ray Tracing, Shadows | | | |
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
 | | 24| Polygonal modeling and data structures, Triangle Meshes, topology |([15Na.pdf](/assets/15Na.pdf)) |A3 in (Sunday 27th)| **Drop Deadline (Oct 26)**|
-|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology | ([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.ppt.pdf))|[A4 out](https://github.com/cs3451/f19-a4) | |
+|11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology | ([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.pdf))|[A4 out](https://github.com/cs3451/f19-a4) | |
 | | 31| Shadow Mapping | | | | 
 |12|Nov 5| Radiometry | **Radiometry** | | |
 | | | Light and Color |**Color** | | |
