@@ -39,7 +39,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |10|Oct 22| Texture, Bump, Environment Maps |**Texture Mapping** | |Prof@UIST|
 | | 24| Polygonal modeling and data structures, Triangle Meshes, topology |([2019SLIDESTriangleMeshes.pdf](/assets/2019SLIDESTriangleMeshes.pdf)) |A3 in (Sunday 27th)| **Drop Deadline (Oct 26)**|
 |11|Oct 29| Polygonal modeling and data structures, Triangle Meshes, topology | ([15Na.pdf](/assets/15Na.pdf)) ([15Nb.pdf](/assets/15Nb.pdf)) ([meshProcessing.pdf](/assets/meshProcessing.pdf))| | |
-| | 31| Shadow Mapping | |[A4 out](https://github.com/cs3451/f19-a4) | | 
+| | 31| Shadow Mapping | **Shadow Maps** |[A4 out](https://github.com/cs3451/f19-a4) [14-shadows.pdf](/assets/14-shadows.pdf)| | 
 |12|Nov 5| Radiometry | **Radiometry** | | |
 | | | Light and Color |**Color** | | |
 | | 7|  _TBA_ |  |A4 in (Sunday 10th)| |

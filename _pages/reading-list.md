@@ -28,6 +28,7 @@ However, either the 3rd or 4th edition of the above book is fine for this class.
 | Shading| 9.0-9.2.2 |10.0-10.2.2 |10.0-10.2.2 |
 | Texture Mapping (1) |  | 11.3.0 | 11.2.2
 | Texture Mapping | | 11 | 11 | 
+| Shadow Maps | | 11.7 | 11.4.4 |
 | Ray Tracing| Ch. 10 |Ch. 4 & 13|Ch. 4 & 13|
 | Curves| 15.1-15.3.5, 15.6.1| 15.0-15.3.5, 15.6-15.6.1|15.0-15.3.5, 15.6-15.6.1|
 | Quaternions | | 17.2.2 | 16.2.2 |
