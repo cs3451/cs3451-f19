@@ -42,8 +42,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 31| Shadow Mapping | **Shadow Maps** |[A4 out](https://github.com/cs3451/f19-a4) [14-shadows.pdf](/assets/14-shadows.pdf)| | 
 |12|Nov 5| Radiometry | **Radiometry** | | |
 | | | Light and Color |**Color** | | |
-| | 7|  _TBA_ |  |A4 in (Sunday 10th)| |
-|13|Nov 12|Interaction and picking, More Scene Graphs, UI Software, Performance | | |
+| | 7|  _TBA_ |  | | |
+|13|Nov 12|Interaction and picking, More Scene Graphs, UI Software, Performance | | A4 in (Monday 11th)| |
 | | 14|Interaction and picking, More Scene Graphs, UI Software, Performance | | [A5: Interactive Scene with Three.js, out](https://github.com/cs3451/f19-a5)| |
 |14|Nov 19| Curves and Surfaces | **Curves**| | |
 | | 21| Curves and Surfaces |**Curves** | | |
