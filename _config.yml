@@ -21,7 +21,7 @@ twitter_username: blairmacintyre
 github_username: blairmacintyre
 minimal_mistakes_skin: dark
 search: true
-repository: cs3451/cs3451-f19.github.io
+repository: cs3451/cs3451-f19
 breadcrumbs: true
 follow_label: "Follow Blair MacIntyre"
 name: "Blair MacIntyre, Georgia Tech"
@@ -91,7 +91,7 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-dark"
-    issue_term: "cs3451/cs3451-f19.github.io"
+    issue_term: "cs3451/cs3451-f19"
 
 defaults:
   - values:
