@@ -21,14 +21,14 @@ twitter_username: blairmacintyre
 github_username: blairmacintyre
 minimal_mistakes_skin: dark
 search: true
-repository: cs3451/cs3451.github.io
+repository: cs3451/cs3451-f19.github.io
 breadcrumbs: true
 follow_label: "Follow Blair MacIntyre"
 name: "Blair MacIntyre, Georgia Tech"
 
 logo: /assets/images/puppy-logo-120x120.png # 120x120 px default image used for Twitter summary card
 teaser: /assets/images/shark-table-360x240.png # 400x250 px default teaser image used in image archive grid
-url: https://cs3451.github.io
+url: https://cs3451.github.io/cs3451-f19
 #url: http://localhost:4000
 
 # Build settings
@@ -82,7 +82,7 @@ footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://cs3451.github.io"
+      url: "https://cs3451.github.io/cs3451-f19"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cs3451/"
@@ -91,7 +91,7 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-dark"
-    issue_term: "cs3451/cs3451.github.io"
+    issue_term: "cs3451/cs3451-f19.github.io"
 
 defaults:
   - values:
